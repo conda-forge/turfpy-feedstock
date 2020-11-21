@@ -5,11 +5,13 @@ Home: https://github.com/omanges/turfpy
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/turfpy-feedstock/blob/master/LICENSE.txt)
 
 Summary: This is Python library for performing geo spatial data analysis.
 
+Development: https://github.com/omanges/turfpy
 
+Documentation: https://turfpy.readthedocs.io/
 
 Current build status
 ====================
