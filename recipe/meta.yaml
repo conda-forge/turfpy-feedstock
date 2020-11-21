@@ -1,5 +1,5 @@
 {% set name = "turfpy" %}
-{% set version = "0.0.4" %}
+{% set version = "0.0.5" %}
 
 
 package:
@@ -8,10 +8,10 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: c02848952512f9cdbf144dcb342e413bc7289c79e62712520e7ff2978d7b93f3
+  sha256: cf71e1930609e2b8eb140cbdc740740aa6261ac399c256660fe93551903fe1a1
 
 build:
-  number: 1
+  number: 0
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
