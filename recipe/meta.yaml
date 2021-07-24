@@ -1,5 +1,5 @@
 {% set name = "turfpy" %}
-{% set version = "0.0.6" %}
+{% set version = "0.0.7" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5e64262355676238929b7df792c1957f3b2af64284a710913ae125eb1370aa92
+  sha256: 1e12aeb398ab4a7a2a459e39f3beabb6d89d1d11b0713bb7f9606cebec0e0147
 
 build:
   number: 0
