@@ -7,7 +7,7 @@ Home: https://github.com/omanges/turfpy
 
 Package license: MIT
 
-Summary: This is Python library for performing geo spatial data analysis.
+Summary: A Python library for performing geospatial data analysis which reimplements turf.js.
 
 Development: https://github.com/omanges/turfpy
 
